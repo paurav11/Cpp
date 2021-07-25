@@ -1,2 +1,2 @@
-# Cpp-Programs
+# Cpp
 Repository full of C++ Programs.
